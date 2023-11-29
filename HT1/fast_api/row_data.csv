@@ -1,0 +1,58 @@
+,0
+Ashok,False
+Audi,False
+BMW,False
+Chevrolet,False
+Daewoo,False
+Datsun,False
+Fiat,False
+Force,False
+Ford,False
+Honda,False
+Hyundai,False
+Isuzu,False
+Jaguar,False
+Jeep,False
+Kia,False
+Land,False
+Lexus,False
+MG,False
+Mahindra,False
+Maruti,False
+Mercedes-Benz,False
+Mitsubishi,False
+Nissan,False
+Opel,False
+Peugeot,False
+Renault,False
+Skoda,False
+Tata,False
+Toyota,False
+Volkswagen,False
+Volvo,False
+engine,1248
+fuel_Diesel,False
+fuel_LPG,False
+fuel_Petrol,False
+km_driven,145500
+max_power,74.0
+max_torque,2000.0
+mileage,3.152736022363656
+owner_Fourth & Above Owner,False
+owner_Second Owner,False
+owner_Test Drive Car,False
+owner_Third Owner,False
+seats_10,False
+seats_14,False
+seats_4,False
+seats_5,False
+seats_6,False
+seats_7,False
+seats_8,False
+seats_9,False
+seller_type_Individual,False
+seller_type_Trustmark Dealer,False
+torque,190.0
+transmission_Manual,False
+year,2014
+year_square,4056196
